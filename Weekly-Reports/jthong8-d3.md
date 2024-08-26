@@ -1,0 +1,11 @@
+My accomplishments for this deliverable:
+- Involved in active group discussion.
+- Created UI for main page.
+- Created unified job class for both current job and job offers.
+- Created settings class for weights.
+- Created sqlite database, and initialised weights and job tables.
+- Synchronisation of database across activities.
+- Implemented functions to facilitate retrieval of all jobs and current job from database.
+- Implemented functions to handle adding of details for new current job and job offer to database.
+- Added assert logic for test case 2,3,4,5,6,7.
+- Added automated testing for test case 9 and 11.

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="compare_jobs_line1">#FFCCCC</color>
+    <color name="compare_jobs_line2">#E1D5E7</color>
+    <color name="compare_jobs_line3">#CDEB8B</color>
+    <color name="job_compare_line1">#CDEB8B</color>
+
+
+</resources>

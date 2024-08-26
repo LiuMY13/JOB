@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JobCompare6300</string>
+    <string name="title_activity_job_offers">JobOffer</string>
+    <string name="title_activity_intermediate">Intermediate</string>
+</resources>
